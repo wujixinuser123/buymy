@@ -19,7 +19,9 @@
 
     NSLog(@"sufhsehsrgldglkdl;hjkojs;lha容易；aehiiR");
 }
-
+- (void)takeTozheNek{
+    NSLog(@"这是一个非常重要的文件请保存好");
+}
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
